@@ -1,4 +1,4 @@
-package com.samsonmarikwa.springframework.autowiring;
+package com.samsonmarikwa.springframework.autowiringbytype;
 
 public class Address {
 
