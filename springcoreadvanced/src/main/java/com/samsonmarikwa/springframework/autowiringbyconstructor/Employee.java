@@ -1,7 +1,11 @@
-package com.samsonmarikwa.springframework.autowiring;
+package com.samsonmarikwa.springframework.autowiringbyconstructor;
 
 public class Employee {
 	private Address address;
+
+	public Employee(Address address) {
+		this.address = address;
+	}
 
 	public Address getAddress() {
 		return address;
@@ -17,4 +21,3 @@ public class Employee {
 	}
 
 }
-

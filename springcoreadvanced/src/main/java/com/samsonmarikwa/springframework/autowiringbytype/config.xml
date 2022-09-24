@@ -10,11 +10,11 @@
 	 http://www.springframework.org/schema/context/spring-context.xsd">
 
 	<bean name="address"
-		class="com.samsonmarikwa.springframework.autowiring.Address"
+		class="com.samsonmarikwa.springframework.autowiringbytype.Address"
 		p:hno="12345" p:street="Sango Drive" p:city="Matthews" />
 
 	<bean name="employee"
-		class="com.samsonmarikwa.springframework.autowiring.Employee"
+		class="com.samsonmarikwa.springframework.autowiringbytype.Employee"
 		autowire="byType" />
 
 </beans>
