@@ -1,13 +1,15 @@
 package com.samsonmarikwa.springframework.autowiringannotation;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 
 public class Employee {
 	
+	@Autowired(required=false)
+	@Qualifier("address123")
 	private Address address;
 
-	@Autowired
-	public Employee(Address address) {
+	public void setAddress(Address address) {
 		this.address = address;
 	}
 

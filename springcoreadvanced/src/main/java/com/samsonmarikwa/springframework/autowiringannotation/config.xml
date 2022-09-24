@@ -11,7 +11,11 @@
 	 
 	<context:annotation-config />
 
-	<bean name="address"
+	<bean name="address123"
+		class="com.samsonmarikwa.springframework.autowiringannotation.Address"
+		p:hno="123" p:street="Sango Drive" p:city="Matthews" />
+
+	<bean name="address2"
 		class="com.samsonmarikwa.springframework.autowiringannotation.Address"
 		p:hno="12345" p:street="Sango Drive" p:city="Matthews" />
 
