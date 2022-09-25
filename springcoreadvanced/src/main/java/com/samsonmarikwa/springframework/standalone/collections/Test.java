@@ -7,7 +7,8 @@ public class Test {
 
 	public static void main(String[] args) {
 		ApplicationContext ctx = 
-				new ClassPathXmlApplicationContext("com/samsonmarikwa/springframework/standalone/collections/config.xml");
+				new ClassPathXmlApplicationContext(
+						"com/samsonmarikwa/springframework/standalone/collections/config.xml");
 		ProductsList productsList = (ProductsList) ctx.getBean("productsList");
 		System.out.println(productsList);
 	}
