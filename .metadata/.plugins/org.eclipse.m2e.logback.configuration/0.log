@@ -1611,3 +1611,55 @@
 2022-09-24 02:08:27,022 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\main\resources
 2022-09-24 02:08:27,027 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-09-24 02:08:27,027 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\test\resources
+2022-09-24 17:17:10,513 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-24 17:30:28,682 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 17:30:28,685 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\main\resources
+2022-09-24 17:30:28,692 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 17:30:28,693 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\test\resources
+2022-09-24 17:32:23,545 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 17:32:23,546 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\main\resources
+2022-09-24 17:32:23,550 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 17:32:23,550 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\test\resources
+2022-09-24 17:32:37,580 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 17:32:37,580 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\main\resources
+2022-09-24 17:32:37,584 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 17:32:37,584 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\test\resources
+2022-09-24 17:36:28,321 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 17:36:28,322 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\main\resources
+2022-09-24 17:36:28,326 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 17:36:28,326 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\test\resources
+2022-09-24 20:15:52,734 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:15:52,737 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\main\resources
+2022-09-24 20:15:52,740 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:15:52,740 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\test\resources
+2022-09-24 20:19:52,415 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-24 20:36:15,424 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:36:15,429 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\main\resources
+2022-09-24 20:36:15,433 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:36:15,434 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\test\resources
+2022-09-24 20:36:25,759 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:36:25,759 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\main\resources
+2022-09-24 20:36:25,762 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:36:25,762 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\test\resources
+2022-09-24 20:36:41,238 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:36:41,239 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\main\resources
+2022-09-24 20:36:41,244 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:36:41,245 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\test\resources
+2022-09-24 20:39:41,683 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:39:41,684 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\main\resources
+2022-09-24 20:39:41,689 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:39:41,690 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\test\resources
+2022-09-24 20:42:03,318 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:42:03,319 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\main\resources
+2022-09-24 20:42:03,321 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:42:03,322 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\test\resources
+2022-09-24 20:46:50,090 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:46:50,091 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\main\resources
+2022-09-24 20:46:50,093 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:46:50,094 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\test\resources
+2022-09-24 20:47:53,000 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:47:53,001 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\main\resources
+2022-09-24 20:47:53,003 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:47:53,004 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\test\resources
+2022-09-24 20:48:35,416 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-24 20:48:35,417 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springcoreadvanced\src\main\resources
