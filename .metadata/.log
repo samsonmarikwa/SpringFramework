@@ -4282,3 +4282,6 @@ org.eclipse.core.internal.resources.ResourceException: Marker id 812 not found.
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 !SUBENTRY 1 org.eclipse.core.resources 4 376 2022-09-25 20:25:07.411
 !MESSAGE Marker id 812 not found.
+
+!ENTRY org.eclipse.ui 2 2 2022-09-25 22:55:48.870
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
