@@ -10,9 +10,6 @@ public class Test {
 				"com/samsonmarikwa/springframework/stereotype/annotations/config.xml");
 		Instructor instructor = (Instructor) ctx.getBean("instr");
 		System.out.println(instructor);
-		
-		Instructor instructor2 = (Instructor) ctx.getBean("instr");
-		System.out.println(instructor2);
 	}
 
 }
