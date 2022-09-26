@@ -11,21 +11,30 @@ import org.springframework.stereotype.Component;
 @Scope("prototype")
 public class Instructor {
 
-	@Value("10")
+	@Value("#{T(java.lang.Integer).MIN_VALUE}")
 	private int id;
 
-	@Value("Samson Marikwa")
+	@Value("#{T(java.lang.Integer).MAX_VALUE}")
+	private int max;
+
+	@Value("#{new java.lang.String('Samson Marikwa').toUpperCase()}")
 	private String name;
+
+	@Value("#{2+4>5}")
+	private boolean active;
 
 	@Value("#{topics}")
 	private List<String> topics;
+
+	@Value("#{profile.getTitle()}")
+	private String title;
 
 	@Autowired
 	private Profile profile;
 
 	@Override
 	public String toString() {
-		return "Instructor [id=" + id + ", name=" + name + ", topics=" + topics + ", profile=" + profile + "]";
+		return "Instructor [title=" + title + "]";
 	}
 
 }
