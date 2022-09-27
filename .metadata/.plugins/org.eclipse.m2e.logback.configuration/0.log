@@ -1961,3 +1961,24 @@
 2022-09-26 16:01:27,584 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-09-26 16:01:27,584 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springjdbc\src\main\resources
 2022-09-26 16:01:27,590 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 16:01:27,591 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springjdbc\src\test\resources
+2022-09-26 16:16:08,273 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 16:16:08,276 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springjdbc\src\main\resources
+2022-09-26 16:16:08,281 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 16:16:08,281 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springjdbc\src\test\resources
+2022-09-26 16:18:38,300 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 16:18:38,301 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springjdbc\src\main\resources
+2022-09-26 16:18:38,305 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 16:18:38,305 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springjdbc\src\test\resources
+2022-09-26 16:57:16,253 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 16:57:16,258 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springjdbc\src\main\resources
+2022-09-26 16:57:16,266 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 16:57:16,266 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springjdbc\src\test\resources
+2022-09-26 16:57:44,635 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 16:57:44,635 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springjdbc\src\main\resources
+2022-09-26 16:57:44,642 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 16:57:44,642 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springjdbc\src\test\resources
+2022-09-26 17:07:44,952 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 17:07:44,953 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springjdbc\src\main\resources
+2022-09-26 17:07:44,957 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-26 17:07:44,958 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CognizantLive\tutorials\SpringFramework\springjdbc\src\test\resources
