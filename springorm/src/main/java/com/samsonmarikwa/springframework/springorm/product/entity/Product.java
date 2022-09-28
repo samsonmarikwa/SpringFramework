@@ -1,4 +1,4 @@
-package com.samsonmarikwa.springframework.springorm.entity;
+package com.samsonmarikwa.springframework.springorm.product.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
