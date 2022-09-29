@@ -1,9 +1,9 @@
 package com.samsonmarikwa.springframework.springorm.product.entity;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity // makes the class an entity. mandatory annotation
 @Table(name = "product") // used when the table name is different to the entity, for example, prod
@@ -53,6 +53,11 @@ public class Product {
 
 	public void setPrice(double price) {
 		this.price = price;
+	}
+
+	@Override
+	public String toString() {
+		return "Product [id=" + id + ", name=" + name + ", desc=" + desc + ", price=" + price + "]";
 	}
 
 }
